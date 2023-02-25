@@ -1,0 +1,104 @@
+{
+    "Music": [
+      {
+        "PutRequest": {
+            "Item": {
+                "Artist": {"S": "Iron Maiden"},
+                "SongTitle": {"S": "Hallowed Be Thy Name"},
+                "Album": {"S": "The Number of the Beast"},
+                "Ano": {"S": "1982"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "Artist": {"S": "Iron Maiden"},
+                "SongTitle": {"S": "Fear of the Dark"},
+                "Album": {"S": "Fear of the Dark"},
+                "Ano": {"S": "1992"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "Artist": {"S": "Iron Maiden"},
+                "SongTitle": {"S": "Run to the Hills"},
+                "Album": {"S": "The Number of the Beast"},
+                "Ano": {"S": "1982"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "Artist": {"S": "Iron Maiden"},
+                "SongTitle": {"S": "The Trooper"},
+                "Album": {"S": "Piece of Mind"},
+                "Ano": {"S": "1983"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "Artist": {"S": "Iron Maiden"},
+                "SongTitle": {"S": "Wasted Years"},
+                "Album": {"S": "Somewhere in Time"},
+                "Ano": {"S": "1986"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "Artist": {"S": "Iron Maiden"},
+                "SongTitle": {"S": "Aces High"},
+                "Album": {"S": "Powerslave"},
+                "Ano": {"S": "1984"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "Artist": {"S": "Iron Maiden"},
+                "SongTitle": {"S": "Phantom of the Opera"},
+                "Album": {"S": "Iron Maiden"},
+                "Ano": {"S": "1980"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "Artist": {"S": "Iron Maiden"},
+                "SongTitle": {"S": "2 Minutes to Midnight"},
+                "Album": {"S": "Powerslave"},
+                "Ano": {"S": "1984"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "Artist": {"S": "Iron Maiden"},
+                "SongTitle": {"S": "Seventh Son of a Seventh Son"},
+                "Album": {"S": "Seventh Son of a Seventh Son"},
+                "Ano": {"S": "1988"}
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "Artist": {"S": "Iron Maiden"},
+                "SongTitle": {"S": "Rime of the Ancient Mariner"},
+                "Album": {"S": "Powerslave"},
+                "Ano": {"S": "1984"}
+            }
+        }
+    }
+      ]
+}
